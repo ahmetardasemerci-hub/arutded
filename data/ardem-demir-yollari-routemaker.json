@@ -1,0 +1,518 @@
+{
+  "app": "routemaker",
+  "version": 1,
+  "name": "Ardem Demir Yolları",
+  "lines": [
+    {
+      "id": "DemirTopraz",
+      "name": "DemirTopraz",
+      "color": "#90a68b",
+      "width": 9,
+      "badge": "DemirTopraz",
+      "style": "solid",
+      "corner": 18,
+      "closed": false,
+      "points": [
+        {
+          "x": 340,
+          "y": 845,
+          "station": {
+            "name": "DemirKazık",
+            "type": "normal",
+            "dir": "w",
+            "rot": 0
+          }
+        },
+        {
+          "x": 340,
+          "y": 165,
+          "station": {
+            "name": "Çıban",
+            "type": "major",
+            "dir": "w",
+            "rot": 0
+          }
+        },
+        {
+          "x": 560,
+          "y": 80,
+          "station": {
+            "name": "Çıban Korusu",
+            "type": "normal",
+            "dir": "n",
+            "rot": 0
+          }
+        },
+        {
+          "x": 780,
+          "y": 80,
+          "station": {
+            "name": "Doğu KemalPaşa",
+            "type": "normal",
+            "dir": "n",
+            "rot": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "Hem Hemse",
+      "name": "Hem Hemse",
+      "color": "#468df7",
+      "width": 9,
+      "badge": "Hem Hemse",
+      "style": "solid",
+      "corner": 18,
+      "closed": false,
+      "points": [
+        {
+          "x": 450,
+          "y": 1270,
+          "station": {
+            "name": "KuşKonmaz",
+            "type": "normal",
+            "dir": "s",
+            "rot": 0
+          }
+        },
+        {
+          "x": 230,
+          "y": 1355,
+          "station": {
+            "name": "Kemerüstü",
+            "type": "major",
+            "dir": "w",
+            "rot": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "Kambaş",
+      "name": "Kambaş",
+      "color": "#e88ed7",
+      "width": 6,
+      "badge": "Kambaş",
+      "style": "solid",
+      "corner": 18,
+      "closed": false,
+      "points": [
+        {
+          "x": 230,
+          "y": 1355,
+          "station": {
+            "name": "Kemerüstü",
+            "type": "major",
+            "dir": "w",
+            "rot": 0
+          }
+        },
+        {
+          "x": 340,
+          "y": 1100,
+          "station": {
+            "name": "PamukYeşili Hisar",
+            "type": "normal",
+            "dir": "w",
+            "rot": 0
+          }
+        },
+        {
+          "x": 670,
+          "y": 675,
+          "station": {
+            "name": "Yukarı KolBastı",
+            "type": "normal",
+            "dir": "e",
+            "rot": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "Kamelya",
+      "name": "Kamelya",
+      "color": "#3e00ba",
+      "width": 6,
+      "badge": "Kamelya",
+      "style": "dash",
+      "corner": 18,
+      "closed": false,
+      "points": [
+        {
+          "x": 1110,
+          "y": 335,
+          "station": {
+            "name": "GöğBağ",
+            "type": "normal",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 1330,
+          "y": 675,
+          "station": {
+            "name": "KızılYemiş Tarlaları",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 1330,
+          "y": 1100,
+          "station": {
+            "name": "KanDuru",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 780,
+          "y": 1100,
+          "station": {
+            "name": "Kutsal Ağaç",
+            "type": "major",
+            "dir": "s",
+            "rot": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "Kanta",
+      "name": "Kanta",
+      "color": "#00ff00",
+      "width": 6,
+      "badge": "Kanta",
+      "style": "solid",
+      "corner": 18,
+      "closed": false,
+      "points": [
+        {
+          "x": 560,
+          "y": 1100,
+          "station": {
+            "name": "BoraYel",
+            "type": "normal",
+            "dir": "s",
+            "rot": 0
+          }
+        },
+        {
+          "x": 780,
+          "y": 1100,
+          "station": {
+            "name": "Kutsal Ağaç",
+            "type": "major",
+            "dir": "s",
+            "rot": 0
+          }
+        },
+        {
+          "x": 450,
+          "y": 930,
+          "station": {
+            "name": "UzunYol",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 560,
+          "y": 505,
+          "station": {
+            "name": "Üzerlik",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 450,
+          "y": 335,
+          "station": {
+            "name": "TozTuz",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 340,
+          "y": 165,
+          "station": {
+            "name": "Çıban",
+            "type": "major",
+            "dir": "w",
+            "rot": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "Karabal",
+      "name": "Karabal",
+      "color": "#a36200",
+      "width": 9,
+      "badge": "Karabal",
+      "style": "solid",
+      "corner": 18,
+      "closed": false,
+      "points": [
+        {
+          "x": 1110,
+          "y": 335,
+          "station": {
+            "name": "GöğBağ",
+            "type": "normal",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 890,
+          "y": 335,
+          "station": {
+            "name": "ElBebek",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 890,
+          "y": 165,
+          "station": {
+            "name": "BalDudak",
+            "type": "normal",
+            "dir": "n",
+            "rot": 0
+          }
+        },
+        {
+          "x": 1110,
+          "y": 165,
+          "station": {
+            "name": "El Döner",
+            "type": "normal",
+            "dir": "e",
+            "rot": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "Pantar",
+      "name": "Pantar",
+      "color": "#5c0266",
+      "width": 9,
+      "badge": "Pantar",
+      "style": "solid",
+      "corner": 18,
+      "closed": false,
+      "points": [
+        {
+          "x": 450,
+          "y": 1270,
+          "station": {
+            "name": "KuşKonmaz",
+            "type": "normal",
+            "dir": "s",
+            "rot": 0
+          }
+        },
+        {
+          "x": 450,
+          "y": 930,
+          "station": {
+            "name": "UzunYol",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 780,
+          "y": 675,
+          "station": {
+            "name": "KolBastı",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 560,
+          "y": 505,
+          "station": {
+            "name": "Üzerlik",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 670,
+          "y": 250,
+          "station": {
+            "name": "KemalPaşa",
+            "type": "normal",
+            "dir": "n",
+            "rot": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "Sancakyolu",
+      "name": "Sancakyolu",
+      "color": "#ff0000",
+      "width": 9,
+      "badge": "Sancakyolu",
+      "style": "solid",
+      "corner": 18,
+      "closed": false,
+      "points": [
+        {
+          "x": 560,
+          "y": 505,
+          "station": {
+            "name": "Üzerlik",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 120,
+          "y": 845,
+          "station": {
+            "name": "SancakYolu",
+            "type": "normal",
+            "dir": "w",
+            "rot": 0
+          }
+        },
+        {
+          "x": 230,
+          "y": 1355,
+          "station": {
+            "name": "Kemerüstü",
+            "type": "major",
+            "dir": "w",
+            "rot": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "SonDamar",
+      "name": "SonDamar",
+      "color": "#730d0d",
+      "width": 9,
+      "badge": "SonDamar",
+      "style": "solid",
+      "corner": 18,
+      "closed": false,
+      "points": [
+        {
+          "x": 1110,
+          "y": 420,
+          "station": {
+            "name": "Kar Ardıçı",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 780,
+          "y": 675,
+          "station": {
+            "name": "KolBastı",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 1330,
+          "y": 1100,
+          "station": {
+            "name": "KanDuru",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "TozTuz",
+      "name": "TozTuz",
+      "color": "#ed8aab",
+      "width": 6,
+      "badge": "TozTuz",
+      "style": "dash",
+      "corner": 18,
+      "closed": false,
+      "points": [
+        {
+          "x": 560,
+          "y": 505,
+          "station": {
+            "name": "Üzerlik",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 450,
+          "y": 335,
+          "station": {
+            "name": "TozTuz",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 890,
+          "y": 335,
+          "station": {
+            "name": "ElBebek",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 1110,
+          "y": 420,
+          "station": {
+            "name": "Kar Ardıçı",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        },
+        {
+          "x": 1330,
+          "y": 675,
+          "station": {
+            "name": "KızılYemiş Tarlaları",
+            "type": "major",
+            "dir": "e",
+            "rot": 0
+          }
+        }
+      ]
+    }
+  ],
+  "features": []
+}
